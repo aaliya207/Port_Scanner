@@ -1,4 +1,4 @@
-# 💖 Bubbly Port Scanner
+# 💖 Port Scanner
 
 A pastel-powered, multi-threaded port scanner built with Python and Tkinter.  
 Scan open ports on a target like a pro — all while keeping it soft, aesthetic, and simple. 💅🎀
